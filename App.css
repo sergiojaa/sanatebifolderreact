@@ -34,7 +34,22 @@
     cursor: pointer;
 }
 
-
+/* kategoria */
+.kategori{
+  margin-left: 10rem;
+  border: 1px solid orangered;
+  max-width: 14rem;
+  
+}
+.kategoria{
+  font-size: 2rem;
+}
+.sanatebi{
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
 
 /* sectionnnn */
 .gverd{
